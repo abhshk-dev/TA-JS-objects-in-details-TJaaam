@@ -10,7 +10,7 @@ If we want to build any app the two most important thing to think about is Data 
   - `isAnswerCorrect` (will accept the index and returns `true` or `false` based on the answer is correct or not)
   - `getCorrectAnswer` (will return the correct answer of the quiz when the function is called)
 
-### Create the object using the following ways
+### Create the object using the following ways 
 
 For each different ways of creating object write different solutions.
 
