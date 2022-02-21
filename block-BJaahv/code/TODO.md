@@ -19,7 +19,7 @@ Create User (class/function) with the following properties.
   - [ ] noOfProjects
 - [ ] methods:
   - [ ] getProjects -> return number of project
-  - [ ] changeName -> accepts one parameter (newName)returns old user name
+  - [ ] changeName -> accepts one parameter (newName)returns old  user name
   - [ ] incrementProject -> returns updated number of projects
   - [ ] decrementProject -> returns updated number of projects
 
