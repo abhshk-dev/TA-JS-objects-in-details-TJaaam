@@ -1,6 +1,6 @@
 # Inheritance
 
-Convert the below requirements into inheritance using prototypal patters.
+Convert the below requirements into inheritance using prototypal patterns.
 
 #### Animal
 
