@@ -4,7 +4,7 @@
 */
 
 // myMap function goes here
-Array.prototype.myMap=function (arr){
+Array.prototype.myMap=function (cb){
   let final=[];
   for(let elm of arr){
     final.push(elm);
