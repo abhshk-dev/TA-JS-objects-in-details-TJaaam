@@ -4,7 +4,12 @@
 */
 
 // myMap function goes here
-
+Array.prototype.myMap=function (arr){
+  let final=[];
+  for(let elm of arr){
+    final.push(elm);
+  }
+}
 // Test the myMap function you created above
 
 let numbers = [1, 5, 6, 8, 9];
