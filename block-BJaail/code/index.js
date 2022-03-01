@@ -41,7 +41,7 @@ class BookList{
         li.classList.add('flex');
 
         bookListRoot.append(li);
-        console.log(bookListRoot);
+    
         });
         
     }
